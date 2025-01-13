@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [CLICK](https://your-solution-url.com)
-- Live Site URL: [CLICK](https://your-live-site-url.com)
+- Solution URL: [CLICK](https://www.frontendmentor.io/solutions/flex-box-ND8nr-dff8)
+- Live Site URL: [CLICK](https://kmrzakir.github.io/product_preview_card_component_frontend_mentor/)
 
 
 ### What I learned
